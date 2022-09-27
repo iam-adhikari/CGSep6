@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 This is the
 
 Hello and welcome to this page
 
  second page
 
+=======
+This is the second page
+
+Committed in B2
+
+Jack and jill went up the hill
+>>>>>>> b2
