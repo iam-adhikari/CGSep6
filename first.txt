@@ -7,3 +7,5 @@ Year is 2022
 we are learning git
 
 A new commit
+
+A second commit
