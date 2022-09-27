@@ -1,0 +1,5 @@
+Hello Git!
+
+Today is Tuesday
+Month is September
+Year is 2022
